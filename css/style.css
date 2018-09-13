@@ -67,15 +67,15 @@
 			text-align: center;
 		}
 		#showcaseContainer{
-			background: url('./images/showcase.jpg') no-repeat center;
+			background: url('../images/showcase.jpg') no-repeat center;
 
 		}
 		#showcase h2{
 			font-size: 55px;
 		}
 		#showcase p{
-      font-size: 20px;
-    }
+      		font-size: 20px;
+    	}
 
 /** Section: login **/
 		#login{
