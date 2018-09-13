@@ -67,7 +67,7 @@
 			text-align: center;
 		}
 		#showcaseContainer{
-			background: url('../images/showcase.jpg') no-repeat center;
+			background: url('./images/showcase.jpg') no-repeat center;
 
 		}
 		#showcase h2{
