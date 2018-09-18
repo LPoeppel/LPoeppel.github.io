@@ -12,7 +12,7 @@
 			padding: 0;
 		}
 		.container{
-				height: 100%;
+			height: 100%;
 		}
 		a{
 			color:inherit;
@@ -24,66 +24,61 @@
 
 /** Header **/
 		header{
-			height: 14vh;
-			color: #ffffff;
-			text-decoration: none;
-			border-bottom: 1vh solid;
-			border-color: #e8421d;
-			background-image: linear-gradient(to bottom right, #142ca3, #029de8);
+				height: 14vh;
+				color: #ffffff;
+				text-decoration: none;
+				border-bottom: 1vh solid;
+				border-color: #e8421d;
+				background-image: linear-gradient(to bottom right, #142ca3, #029de8);
 		}
 		/*Abstand "Titel" und Hyperlinks*/
 		header .container{
-			display: flex;
-			justify-content: space-evenly;
-			align-items: center;
+				display: flex;
+				justify-content: space-evenly;
+				align-items: center;
 		}
-
 		/*Hyperlinks oben rechts*/
-					header nav ul{
-					display: inline-flex;
-				}
-				header nav ul li{
-					padding: 1vh;
-					list-style: none;
-				}
-
-			header a:hover{
+		header nav ul{
+				display: inline-flex;
+		}
+		header nav ul li{
+				padding: 1vh;
+				list-style: none;
+		}
+		header a:hover{
 				font-weight: bold;
 				color: #cccccc;
-			}
-
-			header .highlight{
-	      		font-weight: bold;
-	     		text-transform: uppercase;
-	   		 }
+		}
+		#branding a:hover{
+				font-weight: bold;
+				color:  #fa643f;
+		}
 
 /** Section: showcase **/
 		#showcase{
-			background-color: #ffffff;
-			background: url('../images/showcase.jpg') no-repeat 0 -110vh;
-			color: #ffffff;
-			height: 45vh;
-			text-align: center;
+				background-color: #ffffff;
+				background: url('../images/showcase.jpg') no-repeat 0 -110vh;
+				color: #ffffff;
+				height: 45vh;
+				text-align: center;
 		}
-
 
 /** Section: login **/
 		#login{
-			background-image: linear-gradient(to bottom right, #142ca3, #029de8);
-			height: 15vh;
-
-			color: #ffffff;
+				background-image: linear-gradient(to bottom right, #142ca3, #029de8);
+				height: 15vh;
+				color: #ffffff;
 		}
 		#login .container{
-			display: flex;
-  		  	align-items: center;
-  		   	justify-content: center;
-  		   	text-align: center;
+				display: flex;
+	  		align-items: center;
+	  		justify-content: center;
+	  		text-align: center;
 		}
 		#loginText{
-			padding-top: 1vh;
-			padding-bottom: 1vh;
-			display: flex;
+				padding-top: 1vh;
+				padding-bottom: 1vh;
+				display: flex;
 		}
 		#login input[type="username"], input[type="password"]{
    			height: 30px;
@@ -91,44 +86,44 @@
   			margin-left: 10px;
   		}
 		#login_button{
-			height: 34px;
-			background:#e8421d;
-			padding-left: 20px;
-			padding-right:20px;
-			color:#ffffff;
-			border: 2vh;
-			 			margin-left: 10px;
+				height: 34px;
+				background: #fa643f;
+				padding-left: 20px;
+				padding-right:20px;
+				color:#ffffff;
+				border: 2vh;
+				margin-left: 10px;
 		}
 
 /** Section: content **/
 		#content{
-			height: 20vh;
-			background-color: #ffffff;
+				height: 20vh;
+				background-color: #ffffff;
 		}
 		#content .container{
-			display: flex;
-  		  	align-items: center;
-  		   	justify-content: center;
-  		   	text-align: center;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				text-align: center;
 		}
 
-	
+
 /** Footer **/
 		footer{
-			height: 5vh;
-			width: 100%;
-			background-color: #e8421d;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			color: #ffffff;
+				height: 5vh;
+				width: 100%;
+				background-color: #e8421d;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				color: #ffffff;
 		}
 
 /*****************/
 		#boxes .box{
-			height: 100%;
-			background-color: #ffffff;
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
+				height: 100%;
+				background-color: #ffffff;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
 		}
