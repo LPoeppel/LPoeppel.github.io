@@ -5,6 +5,7 @@
 			height: 100%;
 			font: 15px/1.5 Arial, Helvectia, sans-serif;
 			width: 100%;
+			overflow: hidden;
 		}
 
 		*{
@@ -13,6 +14,10 @@
 		}
 		.container{
 			height: 100%;
+			overflow: hidden;
+		}
+		div{
+			overflow: hidden;
 		}
 		a{
 			color:inherit;
@@ -84,6 +89,7 @@
    			height: 30px;
   			width: 250px;
   			margin-left: 10px;
+				font-size: 18.5px;
   		}
 		#login_button{
 				height: 34px;
