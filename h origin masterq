@@ -1,0 +1,212 @@
+[33mcommit b0e7aaa83b4c72858057c4ea66b8f4defe2b5a52[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lukas Poeppel <s0567279@htw-berlin.de>
+Date:   Sat Oct 24 09:46:58 2020 +0200
+
+    rebrand for Guido
+
+:100644 000000 38fd3c4 0000000 D	.DS_Store
+:000000 100644 0000000 856b578 A	LICENSE.txt
+:100644 000000 bb11716 0000000 D	README.md
+:000000 100644 0000000 cbcd3b5 A	README.txt
+:100644 000000 c419263 0000000 D	_config.yml
+:000000 100644 0000000 b7d052b A	assets/css/fontawesome-all.min.css
+:000000 100644 0000000 b8f65cb A	assets/css/images/bg.png
+:000000 100644 0000000 525b1d3 A	assets/css/main.css
+:000000 100644 0000000 e20ae89 A	assets/js/breakpoints.min.js
+:000000 100644 0000000 f680156 A	assets/js/browser.min.js
+:000000 100644 0000000 7b14e2b A	assets/js/jquery.dropotron.min.js
+:000000 100644 0000000 a1c07fd A	assets/js/jquery.min.js
+:000000 100644 0000000 0e5ca0f A	assets/js/main.js
+:000000 100644 0000000 ecf7b37 A	assets/js/util.js
+:000000 100644 0000000 c5301d8 A	assets/sass/libs/_breakpoints.scss
+:000000 100644 0000000 b367524 A	assets/sass/libs/_functions.scss
+:000000 100644 0000000 3c08069 A	assets/sass/libs/_html-grid.scss
+:000000 100644 0000000 8187463 A	assets/sass/libs/_mixins.scss
+:000000 100644 0000000 4c3bcf4 A	assets/sass/libs/_vars.scss
+:000000 100644 0000000 6599a3f A	assets/sass/libs/_vendor.scss
+:000000 100644 0000000 415fcfb A	assets/sass/main.scss
+:000000 100644 0000000 e79f40f A	assets/webfonts/fa-brands-400.eot
+:000000 100644 0000000 ba0d850 A	assets/webfonts/fa-brands-400.svg
+:000000 100644 0000000 217ffe9 A	assets/webfonts/fa-brands-400.ttf
+:000000 100644 0000000 a2d8025 A	assets/webfonts/fa-brands-400.woff
+:000000 100644 0000000 e27b0bf A	assets/webfonts/fa-brands-400.woff2
+:000000 100644 0000000 d62be2f A	assets/webfonts/fa-regular-400.eot
+:000000 100644 0000000 751083e A	assets/webfonts/fa-regular-400.svg
+:000000 100644 0000000 eb3cb5e A	assets/webfonts/fa-regular-400.ttf
+:000000 100644 0000000 43b1a9a A	assets/webfonts/fa-regular-400.woff
+:000000 100644 0000000 b9344a7 A	assets/webfonts/fa-regular-400.woff2
+:000000 100644 0000000 c77baa8 A	assets/webfonts/fa-solid-900.eot
+:000000 100644 0000000 627128b A	assets/webfonts/fa-solid-900.svg
+:000000 100644 0000000 c6c3dd4 A	assets/webfonts/fa-solid-900.ttf
+:000000 100644 0000000 77c1786 A	assets/webfonts/fa-solid-900.woff
+:000000 100644 0000000 e30fb67 A	assets/webfonts/fa-solid-900.woff2
+:100644 000000 91e943f 0000000 D	css/style.css
+:000000 100644 0000000 2583000 A	images/pic01.jpg
+:000000 100644 0000000 15add4f A	images/pic02.jpg
+:000000 100644 0000000 3f10bb9 A	images/pic03.jpg
+:000000 100644 0000000 15dca28 A	images/pic04.jpg
+:000000 100644 0000000 afd4622 A	images/pic05.jpg
+:000000 100644 0000000 93794fa A	images/pic06.jpg
+:000000 100644 0000000 e7e85e1 A	images/pic07.jpg
+:000000 100644 0000000 1206443 A	images/pic08.jpg
+:000000 100644 0000000 ef743f8 A	images/pic09.jpg
+:000000 100644 0000000 b807a67 A	images/pic10.jpg
+:100644 000000 3257c66 0000000 D	images/showcase.jpg
+:100644 100644 7548e19 9cfcf6f M	index.html
+:000000 100644 0000000 b06a8c6 A	left-sidebar.html
+:000000 100644 0000000 c791874 A	no-sidebar.html
+:000000 100644 0000000 61561f3 A	right-sidebar.html
+:100644 000000 c4f3106 0000000 D	services.html
+
+[33mcommit d68254fd7bf89e1867ca8a8443525959592da3fb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Thu Dec 26 21:02:02 2019 +0200
+
+    Set theme jekyll-theme-cayman
+
+:000000 100644 0000000 c419263 A	_config.yml
+
+[33mcommit 06bb77fb1e0cd3986b61f879200f30f061928f1e[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Thu Dec 26 20:58:30 2019 +0200
+
+    Update README.md
+
+:100644 100644 7b29613 bb11716 M	README.md
+
+[33mcommit a49a78b0daaf4ad410e63f0190943a4d97538b73[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Fri Sep 21 00:54:28 2018 +0200
+
+    overflow
+
+:100644 100644 fda4c35 91e943f M	css/style.css
+
+[33mcommit e305ba1f067f64f918ea27591004b47ff03a1f07[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Tue Sep 18 02:56:39 2018 +0200
+
+    button colour
+
+:100644 100644 bad674f fda4c35 M	css/style.css
+
+[33mcommit 1a94f528e2602b124c160dba623eb65235bb7f1a[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Tue Sep 18 02:54:17 2018 +0200
+
+    code tabbing, head ling, submit buttin instead subscribe, color button and MyHome
+
+:100644 100644 a5eb0b5 bad674f M	css/style.css
+:100644 100644 edddf04 7548e19 M	index.html
+
+[33mcommit 02927a948bbb4a42cc289c5992c0827072d92191[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Sat Sep 15 01:42:07 2018 +0200
+
+    login box and div structure
+
+:100644 100644 25ce67c a5eb0b5 M	css/style.css
+:100644 100644 56d31d2 edddf04 M	index.html
+:000000 100644 0000000 c4f3106 A	services.html
+
+[33mcommit 3749cb5fabeb617a11bb631451dc993fd2cd16cb[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Fri Sep 14 13:46:52 2018 +0200
+
+    new showcase and inputbox size and center header text
+
+:100644 100644 7c59edc 38fd3c4 M	.DS_Store
+:100644 100644 aa427cc 25ce67c M	css/style.css
+:100644 100644 0733dc4 3257c66 M	images/showcase.jpg
+:100644 100644 d8eed92 56d31d2 M	index.html
+
+[33mcommit c407c0405c840eecf1aa6c95eea557c073241d40[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Fri Sep 14 00:42:28 2018 +0200
+
+    text align boxes and footer
+
+:100644 100644 07b57c7 aa427cc M	css/style.css
+:100644 100644 887cec0 d8eed92 M	index.html
+
+[33mcommit 4f57e6e94659371cb1b8e9a5b56e1196ef98c536[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Thu Sep 13 23:07:03 2018 +0200
+
+    showcase center
+
+:100644 100644 abf07bf 07b57c7 M	css/style.css
+
+[33mcommit 0335d78c7a2ba44ff0a596f1a60e540f40f06f19[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Thu Sep 13 23:04:38 2018 +0200
+
+    showcase center
+
+:100644 100644 bb385c0 abf07bf M	css/style.css
+:100644 100644 03e63c0 887cec0 M	index.html
+
+[33mcommit bfbfb651fee4c39a1638c321180cb38ee7002cf3[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Thu Sep 13 22:59:23 2018 +0200
+
+    showcase center
+
+:100644 100644 008cd76 bb385c0 M	css/style.css
+
+[33mcommit abd4a0b4a93a7c75e39f5e500b1af62d66725d4f[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Thu Sep 13 22:54:28 2018 +0200
+
+    showcase center
+
+:000000 100644 0000000 7c59edc A	.DS_Store
+:100644 100644 99a2d59 008cd76 M	css/style.css
+
+[33mcommit fc93603e388e5624455838f1c75e6cbfd5b40f9f[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Thu Sep 13 21:35:28 2018 +0200
+
+    added Images folder and showcase img
+
+:000000 100644 0000000 0733dc4 A	images/showcase.jpg
+
+[33mcommit beaa39568a576fa59475f4eb1703620097bc5de8[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Thu Sep 13 18:18:30 2018 +0200
+
+    Update style.css
+
+:100644 100644 9edcefb 99a2d59 M	css/style.css
+
+[33mcommit 01ee0f027b199a9722e188374fefa6f92481f9d5[m
+Author: LPoeppel <43016007+LPoeppel@users.noreply.github.com>
+Date:   Thu Sep 13 01:19:19 2018 +0200
+
+    Update index.html
+
+:100644 100644 ed31ee9 03e63c0 M	index.html
+
+[33mcommit f098cd16349c2d0033fc72508286584d86f0087b[m
+Author: Admin <admin@macbook-air.speedportentry2090126250023>
+Date:   Thu Sep 13 01:09:11 2018 +0200
+
+    css folder
+
+:000000 100644 0000000 9edcefb A	css/style.css
+
+[33mcommit 1348b8b7759d5e002d68ada0f255140a1acb789f[m
+Author: Admin <admin@macbook-air.speedportentry2090126250023>
+Date:   Thu Sep 13 00:05:33 2018 +0200
+
+    initial commit
+
+:000000 100644 0000000 ed31ee9 A	index.html
+
+[33mcommit 24df896a0440a081a6cd881766ddc2e1490e1c73[m
+Author: Admin <admin@MacBook-Air.fritz.box>
+Date:   Tue Sep 11 22:26:42 2018 +0200
+
+    my first commit
+
+:000000 100644 0000000 7b29613 A	README.md
